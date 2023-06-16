@@ -402,6 +402,7 @@
     <Content Include="Scripts\vendor\tinymce\themes\silver\theme.min.js" />
     <Content Include="Scripts\vendor\tinymce\tinymce.js" />
     <Content Include="Scripts\vendor\tinymce\tinymce.min.js" />
+    <Content Include="哈哈哈.txt" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
